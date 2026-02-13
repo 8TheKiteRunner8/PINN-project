@@ -1,0 +1,10 @@
+
+{
+    "python.defaultInterpreterPath": "/home/kite/miniconda/envs/pinn/bin/python",
+    "python.testing.pytestEnabled": true,
+    "python.testing.pytestArgs": ["tests"],
+    "files.exclude": {
+        "**/__pycache__": true
+    },
+    "editor.formatOnSave": true
+}
